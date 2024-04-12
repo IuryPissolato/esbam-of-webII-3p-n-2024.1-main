@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/projetinho 1"
+		},
+		{
+			"path": "../../../../Desktop/tabelatrabalho"
+		},
+		{
+			"path": "../../../../Desktop/siteproprio"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/trabalho_de_web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "trabalho_de_web"
+	}
+}
